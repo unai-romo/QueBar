@@ -13,3 +13,19 @@ El usuario podrá diferenciar de los locales con ofertas y sin ofertas con un se
 Como se puede apreciar, el prototipo tiene un diseño minimalista y con líneas muy simples; de esta forma, se consigue mostrar la información esencial sin que esta tenga demasiada carga cognitiva en el usuario (la gran cantidad de white space ayuda con esto). Además, se ha realizado un diseño que incorpora un color principal (utilizando distintas opacidades) a la paleta greyscale evitando la gran mayoría de problemas de accesibilidad relacionadas con el daltonismo. Si una persona sufriese de tritanopia (ausencia de receptores para el color azul) el haber utilizado el mismo azul (#006699) con distinta opacidad debería solventar el problema. Al no tener conocidos con dicha condición no se ha podido probar si podría suponer un problema pero una única iteración de evaluaciones heurísticas de la app serviría para solucionarlo.
 
 Por último, y aprovechando la mención de la evaluación heurística, consideramos que siendo una interfaz tan sencilla una evaluación bastará para corregir cualquier consideración de diseño que pueda resultar equivocada. Por ello, solo haría falta generar la base de datos, codificar la interfaz (se ha utilizado la herramienta Figma para construir el prototipo) y construir un "backend" con el que hacer "queries" en tiempo real a la mencionada base de datos para tener una app funcional y comercializable.
+
+## Plan de marketing y estrategias de crecimiento
+
+### Análisis de la competencia
+
+La rivalidad entre competidores existentes es indirecta. Esto se debe a que las aplicaciones como TripAdvisor o ElTenedor ofrece información de restaurantes y distintas ofertas, sin embargo, ni las aplicaciones mencionadas ni aplicaciones de navegación como GoogleMaps indican al usuario cuál es la ocupación de un local en tiempo real de una forma precisa.
+
+Las barreras de entrada serían medio-altas debido a que es una aplicación nueva en el mercado y su reconocimiento será bajo en las primeras semanas de lanzamiento por lo que los canales de comunicación jugarán un papel importante en la promoción y alcance de la app.
+
+### Target market
+
+La investigación de mercado realizada (mediante cuestionarios) indica que el usuario final es una persona concienciada y preocupada con el COVID-19 que quiere seguir viviendo su vida con la máxima seguridad posible mientras ayuda al comercio minorista. Además, en una primera fase de desarrollo la app se centrará en el pequeño comercio y, en desarrollos futuros se extenderá a grandes superficies como supermercados o centros comerciales.
+
+Teniendo en cuenta la gran diversidad de usuarios qu
+
+###
