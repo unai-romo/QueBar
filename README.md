@@ -1,2 +1,4 @@
-# QueBar
-Repository used to host the prototyping phase of IBM Spain's 2021 Hackaton
+# QuéBar
+
+La aplicación se ha construido con el objetivo de paliar dos grandes problemas que ha generado la pandemia del COVID-19. En primer lugar, se busca generar una sensación de seguridad en los ciudadanos y ciudadanas que, por motivos evidentes, sufren de intranquilidad a la hora de dirigirse a establecimientos (e.g. bares) por no conocer si se encontrará un lugar con poco espacio o si, por el contrario, un negocio en el que apenas hay gente y, por lo tanto, ofrece la tranquilidad añadida de no tener que pensar en distancias de seguridad, etc. que se han alojado en el centro de nuestras preocupaciones en el último año. En segundo lugar, permite a los dueños de estos comercios, mediante una interfaz muy sencilla, proporcionar esta tranquilidad a la vez que cuentan con herramientas para promover el crecimineto de su productividad.
+
