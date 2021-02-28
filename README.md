@@ -2,7 +2,7 @@
 
 La aplicación se ha construido con el objetivo de paliar dos grandes problemas que ha generado la pandemia del COVID-19. En primer lugar, se busca generar una sensación de seguridad en los ciudadanos y ciudadanas que, por motivos evidentes, sufren de intranquilidad a la hora de dirigirse a establecimientos (e.g. bares) por no conocer si se encontrará un lugar con poco espacio o si, por el contrario, un negocio en el que apenas hay gente y, por lo tanto, ofrece la tranquilidad añadida de no tener que pensar en distancias de seguridad, etc. que se han alojado en el centro de nuestras preocupaciones en el último año. En segundo lugar, permite a los dueños de estos comercios, mediante una interfaz muy sencilla, proporcionar esta tranquilidad a la vez que cuentan con herramientas para promover el crecimiento de su productividad.
 
-## Descripción y futuro desarrollo de la app
+## Descripción y futura implementación de la app
 
 La app tiene dos interfaces muy diferenciadas: la destinada al usuario y la que utilizará el local. La parte destinada al usuario le permitirá visualizar los establecimientos que tiene a 1km a la redonda (distancia que se recorre en, aproximadamente, 10 minutos) de esta forma la app no requerirá de demasiada memoria del teléfono. Como se aprecia en la primera captura del prototipo el usuario podrá ver aquellos locales que se ajusten a su filtro en su proximidad geográfica; en una primera fase de desarrollo estos establecimientos serán bares (de ahí el nombre original de la aplicación) pero a medida que se avance con dicho desarrollo el filtro incorporará otro tipo de locales como gimnasios, supermercados o centros comerciales (sin olvidar que el objetivo principal, en primera instancia, es la de ayudar al pequeño comercio). El mencionado filtro por tipo de local está implementado en el prototipo.
 
@@ -26,6 +26,19 @@ Las barreras de entrada serían medio-altas debido a que es una aplicación nuev
 
 La investigación de mercado realizada (mediante cuestionarios) indica que el usuario final es una persona concienciada y preocupada con el COVID-19 que quiere seguir viviendo su vida con la máxima seguridad posible mientras ayuda al comercio minorista. Además, en una primera fase de desarrollo la app se centrará en el pequeño comercio y, en desarrollos futuros se extenderá a grandes superficies como supermercados o centros comerciales.
 
-Teniendo en cuenta la gran diversidad de usuarios qu
+Teniendo en cuenta la gran diversidad de usuarios que utilizarán la app se ha diseñado una interfaz muy sencilla e intuitiva.
 
-###
+### Comunicación
+
+Se realizará una demostración gratuita para los establecimientos con el fin de que empiecena utilizar la app. Se tratará de atraer a los usuarios mediante la promoción realizada por los propios establecimientos y anuncios, por ejemplo, en redes sociales.
+
+### Estrategia de crecimiento
+
+La estrategia de crecimiento, centrada en el ámbito geográfico, se basará en la internacionalización; además, se buscará también un crecimiento en la cuota de mercado añadiendo nuevos tipos de cliente como las grandes superficies y, por último, grandes marcas que quieran notificar a usuarios de distintas promociones en sus tiendas.
+
+En cuanto al plan de internacionalización, puede dividirse en 4 fases bien diferenciadas. Se inicaría una prueba piloto en una zona concreta de Madrid (e.g. alrededores de IBM). Las siguientes 3 fases corresponden a una expansión gradual del alcance de la app: en primer lugar se habilitaría el uso de la app para todo Madrid, seguido de una expansión al territorio nacional para, en último lugar, y conocociendo en qué tipo de lugares se consigue mayor uso de la app (por ejemplo utilizando la densidad de población como baremo) se pasaría a internacionalizarla.
+
+
+### Financiación
+
+Será una aplicación gratuita para los usuarios que se financiará con una cuota mensual que cubrirán los establecimientos (siempre buscando una cuota que sea mucho menor a lo que un establecimiento pueda gastarse en empresas de publicidad). Teniendo en cuenta que en Madrid hay más de 30.000 bares y restaurantes, si la cuota fuese de 10€/mes los ingresos superarían los 300.000€/mes si la app tiene un uso extensivo.
