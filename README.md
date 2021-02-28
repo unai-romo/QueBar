@@ -14,6 +14,10 @@ Como se puede apreciar, el prototipo tiene un diseño minimalista y con líneas 
 
 Por último, y aprovechando la mención de la evaluación heurística, consideramos que siendo una interfaz tan sencilla una evaluación bastará para corregir cualquier consideración de diseño que pueda resultar equivocada. Por ello, solo haría falta generar la base de datos, codificar la interfaz (se ha utilizado la herramienta Figma para construir el prototipo) y construir un "backend" con el que hacer "queries" en tiempo real a la mencionada base de datos para tener una app funcional y comercializable.
 
+### Prototipo
+
+Las capturas mencionadas en el apartado anterior así como un video de uso de la app se encuentran en el directorio prototipo. Para acceder al entorno de desarrollo en el que se ha diseñado (Figma) clicar https://www.figma.com/proto/C7Qp8EHbla8ifKuTITGL0I/Phase-2-Prototype?node-id=25%3A71&viewport=-176%2C264%2C0.47354358434677124&scaling=scale-down
+
 ## Plan de marketing y estrategias de crecimiento
 
 ### Análisis de la competencia
